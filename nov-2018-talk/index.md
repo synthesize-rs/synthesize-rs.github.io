@@ -10,6 +10,6 @@ Talk presented 13 Nov 2018 at the SF Rust Meetup.
 
 * [Code](https://github.com/raphlinus/synthesizer-io)
 
-* Video: coming soon
+* [Video](https://youtu.be/-F7whGjquHI?t=3150)
 
 * Blog post: coming soon
